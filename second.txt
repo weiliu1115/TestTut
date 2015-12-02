@@ -1,2 +1,6 @@
 2222
+<<<<<<< HEAD
 you are very 2
+=======
+2bIBM
+>>>>>>> 9fc3a3422d841cbfb42e1daa722ef9e3bba771ff
